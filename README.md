@@ -1,2 +1,2 @@
 # OptimisticImpulse.github.io
-Yet another Beautiful website!
+Yet another beautiful website!
