@@ -1,2 +1,2 @@
 # OptimisticImpulse.github.io
-Yet Another test page
+Yet another test page
